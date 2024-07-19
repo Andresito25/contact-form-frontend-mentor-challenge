@@ -101,7 +101,7 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 ## Validation email guide
 
-[text](<[text](https://desarrolloweb.com/articulos/validar-email-javascript#:~:text=Validar%20un%20email%20con%20Javascript%20consiste%20en%20analizar%20una%20cadena,en%20una%20direcci%C3%B3n%20de%20email.)>)
+[text](https://desarrolloweb.com/articulos/validar-email-javascript#:~:text=Validar%20un%20email%20con%20Javascript%20consiste%20en%20analizar%20una%20cadena,en%20una%20direcci%C3%B3n%20de%20email.)
 
 ## Blocking for numbers in a text type input
 
@@ -109,10 +109,11 @@ This challenge is completely free. Please share it with anyone who will find it 
 Stack Overflow explanation
 ...
 
-[text](<[text](https://es.stackoverflow.com/questions/289413/bloquear-n%C3%BAmeros-letras-y-o-caracteres-especiales-en-un-input)>)
+[text](https://es.stackoverflow.com/questions/289413/bloquear-n%C3%BAmeros-letras-y-o-caracteres-especiales-en-un-input)
 
 ...
 Complete ASCII Code
 ...
 
-[text](<[text](https://elcodigoascii.com.ar/)>)
+[text](https://elcodigoascii.com.ar/)
+
